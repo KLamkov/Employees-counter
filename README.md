@@ -1,3 +1,18 @@
+# Description
+Employees conuter app
+
+## Options
+  + Add new employee
+  + Delete employee
+  + Filter employees
+  + Mark an employee for promotion
+  + Mark the employee who will receive the bonus
+
+![screen](public/screen.png)
+
+[Published project link](https://klamkov.github.io/Employees-counter/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
